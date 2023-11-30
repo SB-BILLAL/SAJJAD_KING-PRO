@@ -1,4 +1,4 @@
-#-----------------[ MR-WASIM ]-------------------#
+#-----------------[ MR-DEVILKING ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
@@ -1549,7 +1549,7 @@ pwpluss,pwnya=[],[]
  
  
 
-#------------[ WASIM- ]--------------#
+#------------[ DEVI-KING- ]--------------#
  
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
@@ -1648,12 +1648,12 @@ logo ="""
 ║   \033[0;91m ███ ███  \033[0;92m██   ██ \033[0;91m███████ \033[0;92m██ \033[0;91m██      ██   ║
 \033[0;92m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝                       
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-╠══[Author                   • \33[1;38mWASIM-BRO ]\33[1;38m    ║\033[1;31m 
-╠══[Facebook                 • WASIM360       ║  \033[1;97m  
-╠══[Github                   • \33[1;38mwasimmoulik008 ║\33[1;34m   
+╠══[Author                   • \33[1;38mDEVIL-KING ]\33[1;38m    ║\033[1;31m 
+╠══[Facebook                 • alc Sajjad yt      ║  \033[1;97m  
+╠══[Github                   • \33[1;38sb-billal ║\33[1;34m   
 ╠══[Whatsapp                 • 01*********    ║\33[1;35m 
 ╠══[TOOLS                    • Paid]         ║ \33[1;32m   
-╠══[VERSION                  • 1.2]           ║\033[1;35m 
+╠══[VERSION                  • 0.1]           ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
@@ -1670,7 +1670,7 @@ def meyexudi():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://www.facebook.com/permalink.php?story_fbid=pfbid0KF3pVownbWVGacW915isR2uiaDhAhEs96P1KcuKkHfjXqb6em3LFmVZXnKLtQDsHl&id=61550728287434&mibextid=zDhOQc').text
+    httpCaht = requests.get('https://github.com/SB-BILLAL/Approve.txt').text
     if id in httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
@@ -1700,9 +1700,9 @@ meyexudi()
 def naima():
 	print('-------------------')
 print(logo)
-os.system('espeak -a 300 " Please,   Text,   Your,   Real,   Name,   Sir,"')
+os.system('espeak -a 300 " Please,   Text,   Your,   Real,   Name,  ,"')
 uname =input('\033[1;91m[\033[1;91m•\033[1;91m]\033[1;33m WHAT IS YOUR NAME \033[1;91m: \33[1;31m')
-os.system('espeak -a 300 " Welcome,   to,  WASIM,BRO,  PAID,   Tools"')
+os.system('espeak -a 300 " Welcome,   to,  DEVIL,BRO,  FREE,   Tools"')
 def back():
 	login()
 	
@@ -1714,9 +1714,9 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;95m[\033[1;95m√\033[1;95m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'EHC' and password == 'WASIM':
+    if username == 'A' and password == '1':
         print(' \033[0;95mYou Have Successfully Logged in.')
-        os.system('espeak -a 300 " Successfully,   Log,  In,  Sir"')
+        os.system('espeak -a 300 " Successfully,   Log,  In,  "')
         break
     else:
         print(' Incorrect Pass Please Trying ')
